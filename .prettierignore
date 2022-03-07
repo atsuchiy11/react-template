@@ -1,6 +1,7 @@
 **/dist/
 **/public/
-**/*.config.js
+**/*rc.json
+**/*rc
 **/node_modules
 **/yarn.lock
 **/package-lock.json

@@ -30,6 +30,7 @@
 		// トランスパイルするバージョン
 		"target": "esnext"
 	},
-	"include": ["./src/**/*"],
+	// "include": ["./src/**/*"],
+	"include": ["**/*.ts", "**/*.tsx"],
 	"exclude": ["node_modules"]
 }
