@@ -14,7 +14,7 @@
 		// 使用するAPI
 		"lib": ["DOM", "ESNext"],
 		// エクスポート/インポート
-		"module": "ESNext",
+		"module": "CommonJS",
 		// モジュール解決
 		"moduleResolution": "Node",
 		// コンパイルしたファイルを出力しない
